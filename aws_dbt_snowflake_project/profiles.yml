@@ -1,9 +1,9 @@
 aws_dbt_snowflake_project:
   outputs:
     dev:
-      account: PVOPXDM-OB79206
+      account: PVOPXDM-*****
       database: AIRBNB
-      password: Soniasarpal@2002
+      password: **********
       role: ACCOUNTADMIN
       schema: dbt_schema
       threads: 1
