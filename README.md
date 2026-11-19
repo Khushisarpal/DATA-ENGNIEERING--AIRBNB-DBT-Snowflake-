@@ -190,11 +190,6 @@ dbt automatically tracks data lineage, showing:
    - Ephemeral models for intermediate transformations
    - Appropriate clustering keys in Snowflake
 
-## 📚 Additional Resources
-
-- **dbt Documentation**: https://docs.getdbt.com/
-- **Snowflake Documentation**: https://docs.snowflake.com/
-- **dbt Best Practices**: https://docs.getdbt.com/guides/best-practices
 
 ## 🤝 Contributing
 
